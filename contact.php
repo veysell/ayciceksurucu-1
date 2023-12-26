@@ -1,6 +1,6 @@
 <?php
 $page = "İletişim | ";
-include("inc/head.php")
+include("inc/head.php") 
 ?>
 
 <!-- Page Header Start -->
