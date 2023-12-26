@@ -43,9 +43,7 @@ include("inc/head.php")
                                 <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                             </div>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            
-                        </div>
+                         
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.3s">
@@ -57,9 +55,7 @@ include("inc/head.php")
                                 <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                             </div>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            
-                        </div>
+                         
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.5s">
@@ -71,9 +67,7 @@ include("inc/head.php")
                                 <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                             </div>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            
-                        </div>
+                         
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.1s">
@@ -85,9 +79,7 @@ include("inc/head.php")
                                 <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                             </div>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            
-                        </div>
+                         
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.3s">
@@ -99,9 +91,7 @@ include("inc/head.php")
                                 <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                             </div>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            
-                        </div>
+                         
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
@@ -113,9 +103,7 @@ include("inc/head.php")
                                 <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                             </div>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            
-                        </div>
+                         
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
@@ -127,9 +115,7 @@ include("inc/head.php")
                                 <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                             </div>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            
-                        </div>
+                         
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
@@ -141,9 +127,7 @@ include("inc/head.php")
                                 <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                             </div>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            
-                        </div>
+                         
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
@@ -155,9 +139,7 @@ include("inc/head.php")
                                 <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                             </div>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            
-                        </div>
+                         
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
@@ -169,9 +151,7 @@ include("inc/head.php")
                                 <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                             </div>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            
-                        </div>
+                         
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
@@ -183,9 +163,7 @@ include("inc/head.php")
                                 <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                             </div>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            
-                        </div>
+                         
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
@@ -197,9 +175,7 @@ include("inc/head.php")
                                 <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                             </div>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            
-                        </div>
+                         
                     </div>
                 </div>
                 
@@ -212,9 +188,7 @@ include("inc/head.php")
                                 <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                             </div>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            
-                        </div>
+                         
                     </div>
                 </div>
             </div>

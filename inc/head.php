@@ -48,7 +48,7 @@
             <div class="col-lg-7 px-5 text-start">
                 <div class="h-100 d-inline-flex align-items-center py-3 me-4">
                     <small class="fa fa-map-marker-alt text-primary me-2"></small>
-                    <small>Adress gelecek</small>
+                    <small>Yenişehir Mah. 266 sok No:12/A</small>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center py-3">
                     <small class="far fa-clock text-primary me-2"></small>
@@ -60,7 +60,7 @@
                 <div class="h-100 d-inline-flex align-items-center">
                     <a class="btn btn-sm-square bg-white text-primary me-1" href=""><i class="fab fa-facebook-f"></i></a>
                     <a class="btn btn-sm-square bg-white text-primary me-1" href=""><i class="fab fa-whatsapp"></i></a>
-                    <a class="btn btn-sm-square bg-white text-primary me-1" href=""><i class="fa fa-phone-alt"></i></a>
+                    <a class="btn btn-sm-square bg-white text-primary me-1" href="tel:+905493197171"><i class="fa fa-phone-alt"></i></a>
                     <a class="btn btn-sm-square bg-white text-primary me-0" href=""><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
@@ -95,7 +95,7 @@
                 </div> -->
                 <a href="iletisim" class="nav-item nav-link">İLETİŞİM</a>
             </div>
-            <a href="" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Bizi Arayın<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="tel:+905493197171" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Bizi Arayın<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>
     <!-- Navbar End -->
