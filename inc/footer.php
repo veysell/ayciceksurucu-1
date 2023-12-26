@@ -8,14 +8,16 @@
                  <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+90 549 319 71 71</p>
                  <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@ayciceksurucukursu.com</p>
                  <div class="d-flex pt-2">
-                     <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
-                     <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
-                     <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
-                     <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
+                     <a class="btn btn-outline-light btn-social"
+                         href="https://api.whatsapp.com/send?phone=905493197171"><i class="fab fa-whatsapp"></i></a>
+                     <a class="btn btn-outline-light btn-social" href="tel:+905493197171"><i
+                             class="fa fa-phone-alt"></i></a>
                  </div>
              </div>
              <div class="col-lg-6 col-md-6">
-                 <iframe class="position-absolute" style="object-fit: cover; width:35%; height:25%;" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Yeni%C5%9Fehir%20Mah.%20266%20sok%20No:12/A+(My%20Business%20Name)&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/population/">Population calculator map</a></iframe>
+                 <iframe class="position-absolute" style="object-fit: cover; width:35%; height:25%;"
+                     src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Yeni%C5%9Fehir%20Mah.%20266%20sok%20No:12/A+(My%20Business%20Name)&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a
+                         href="https://www.maps.ie/population/">Population calculator map</a></iframe>
              </div>
              <div class="col-lg-3 col-md-3">
                  <h4 class="text-light mb-4">HIZLI LİNK</h4>
