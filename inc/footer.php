@@ -15,11 +15,11 @@
                  </div>
              </div>
              <div class="col-lg-6 col-md-6">
-                 <iframe class="position-absolute" style="object-fit: cover; width:35%; height:25%;"
+                 <iframe class="position-relative" style="object-fit: cover; width:100%; height:75%;"
                      src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Yeni%C5%9Fehir%20Mah.%20266%20sok%20No:12/A+(My%20Business%20Name)&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a
                          href="https://www.maps.ie/population/">Population calculator map</a></iframe>
              </div>
-             <div class="col-lg-3 col-md-3">
+             <div class="col-lg-3 col-md-3 mt-0">
                  <h4 class="text-light mb-4">HIZLI LİNK</h4>
                  <a class="btn btn-link" href="anasayfa">ANASAYFA</a>
                  <a class="btn btn-link" href="hakkimizda">HAKKINDA</a>
