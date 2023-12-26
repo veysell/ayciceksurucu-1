@@ -1,0 +1,15 @@
+RewriteEngine On
+RewriteBase /ayciceksurucu/
+ErrorDocument 404 error.php
+
+
+RewriteRule ^anasayfa index.php [L,NC]
+RewriteRule ^hakkimizda about.php [L,NC]
+RewriteRule ^ekibimiz team.php [L,NC]
+RewriteRule ^iletisim contact.php [L,NC]
+RewriteRule ^galeri gallery.php [L,NC]
+
+
+
+
+
